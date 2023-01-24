@@ -97,4 +97,4 @@ class BeFake(BeFake_simple):
 if __name__ == "__main__":
     befake = BeFake()
     #befake.update_database()
-    #befake.crawl_infinite()
+    befake.crawl_infinite()
